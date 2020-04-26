@@ -1,3 +1,7 @@
+/*
+Calcula a nota de 10 alunos e diz se foi aprovado ou não. ((AP1+AP2)/2+AF)/2
+*/
+
 import java.util.Scanner;
 
 public class Aluno
