@@ -4,7 +4,7 @@ Calcula a nota de 10 alunos e diz se foi aprovado ou não. ((AP1+AP2)/2+AF)/2
 
 import java.util.Scanner;
 
-public class Aluno
+public class EX1
 {
    public static void main(String[] args){
        Scanner sc = new Scanner(System.in);
