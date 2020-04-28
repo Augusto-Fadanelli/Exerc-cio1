@@ -1,7 +1,7 @@
 // 64 - Desenhe a seguinte seqüência de triângulos. O usuário determina a quantidade de triângulos.// 65 - Desenhe a seguinte pirâmide de asteriscos. O usuário determina a quantidade de linhas.
 import java.util.Scanner;
 
-public class Questao64
+public class JB64
 {
     public static void main(String[] args)
     {
