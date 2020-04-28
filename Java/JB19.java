@@ -1,7 +1,7 @@
 // 19 - Exiba dois números fornecidos pelo usuário em ordem crescente.
 import java.util.Scanner;
 
-public class Questao19
+public class JB19
 {
     public static void main(String[] args)
     {        
