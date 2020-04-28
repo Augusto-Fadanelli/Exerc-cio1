@@ -2,7 +2,7 @@
 // Calculo de média escolhido: (AP1 + AP2 + AP3 + AF)/4
 import java.util.Scanner;
 
-public class Questao4
+public class JB4
 {
     public static void main(String[] args)
     {        
