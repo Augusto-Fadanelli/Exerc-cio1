@@ -1,7 +1,7 @@
 // 65 - Desenhe a seguinte pirâmide de asteriscos. O usuário determina a quantidade de linhas.
 import java.util.Scanner;
 
-public class Questao65
+public class JB65
 {
     public static void main(String[] args)
     {
