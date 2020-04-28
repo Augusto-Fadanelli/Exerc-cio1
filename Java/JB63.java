@@ -1,7 +1,7 @@
 // 63 - Desenhe a seguinte pirâmide de números. O usuário determina a quantidade de linhas.
 import java.util.Scanner;
 
-public class Questao63
+public class JB63
 {
     public static void main(String[] args)
     {
