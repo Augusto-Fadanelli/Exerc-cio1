@@ -1,6 +1,6 @@
 // 49 - Exiba os 50 primeiros números da seqüência de Fibonacci.
 
-public class Questao49
+public class JB49
 {
     public static void main(String[] args)
     {        
