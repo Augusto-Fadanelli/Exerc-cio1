@@ -1,7 +1,7 @@
 // 9 - Verifique se o usuário é maior de idade ou não.
 import java.util.Scanner;
 
-public class Questao9
+public class JB9
 {
     public static void main(String[] args)
     {
