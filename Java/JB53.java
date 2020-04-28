@@ -1,7 +1,7 @@
 //53 - Exiba a tabuada de um número fornecido pelo usuário.
 import java.util.Scanner;
 
-public class Questao53
+public class JB53
 {
     public static void main(String[] args)
     {
