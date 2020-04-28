@@ -1,7 +1,7 @@
 // 1 - Determine qual é a idade que o usuário faz no ano atual. Para isso solicite o seu ano de nascimento e o ano atual.
 import java.util.Scanner;
 
-public class Questao1
+public class JB1
 {
     public static void main(String[] args)
     {
