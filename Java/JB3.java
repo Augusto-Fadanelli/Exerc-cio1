@@ -1,7 +1,7 @@
 // 3 - Solicite a quantidade de homens e de mulheres de uma turma da faculdade. Em seguida calcule e exiba o percentual (separadamente) de homens e mulheres desta turma.
 import java.util.Scanner;
 
-public class Questao3
+public class JB3
 {
     public static void main(String[] args)
     {
