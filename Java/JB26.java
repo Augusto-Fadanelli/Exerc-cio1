@@ -1,7 +1,7 @@
 // 26 - Receba 2 horários e exiba a diferença entre eles em segundos. A entrada destes horários pode ocorrer em qualquer ordem. Dica: transforme os dois horários para segundos.
 import java.util.Scanner;
 
-public class Questao26
+public class JB26
 {
     public static void main(String[] args)
     {
