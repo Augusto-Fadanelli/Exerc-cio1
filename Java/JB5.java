@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Questo5
+public class JB5
 {
     public static void main(String[] args)
     {
