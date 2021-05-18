@@ -5,4 +5,4 @@ Exercícios básicos de Programação I, II e III da graduação de Ciência da 
 - **EX** -> Simplesmente exercícios passados pelo professor em sala de aula
 - **ED** -> Exercícios sobre Estruturas de Dados 
 
-Contato: augustofadanelli.feedback@gmail.com (Use apenas para feedbacks/sugestões de melhorias)
+Deixe seu feedback ^-^ augustofadanelli.feedback@gmail.com
